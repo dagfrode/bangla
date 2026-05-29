@@ -2,6 +2,8 @@
 
 > **Langla** = **Ba**ngla + **L** (for *learning* and *LLM*).
 
+Live: [dagfrode.github.io/bangla](https://dagfrode.github.io/bangla/)
+
 A mobile-first Progressive Web App for daily Bangla practice, built around a hard deadline: hosting in-laws in Norway for a wedding in August.
 
 - **No build step.** Vanilla JS (ES modules), plain CSS, served as static files.
